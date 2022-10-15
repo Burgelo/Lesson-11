@@ -1,0 +1,71 @@
+body{
+	background: url('../img/fon-plamya.jpg') no-repeat;
+	width: 100%;
+}
+.wrapper{
+	position: relative;
+	min-height: 100%;
+}
+.car__section-title{
+	position: fixed;
+	top: 50px;
+	margin-left: 273px;
+}
+.car:hover{
+	margin-left: 20px;
+}
+.title{
+	font-family: Verdana, Geneva, Tahoma, sans-serif;
+	font-size: 28px;
+	font-weight: 900;
+	color: #C6B51E;
+	text-transform: uppercase;
+}
+.car__item-bonnet {
+	position: absolute;
+	margin-top: 250px;
+	margin-left: 360px;
+}
+.car-item-roof {
+	position: absolute;
+	margin-top: 247px;
+	margin-left: 268px;
+}
+.car__item-side {
+	position: absolute;
+	margin-top: 247px;
+	margin-left: 260px;
+}
+.car__item-lugg {
+	position: absolute;
+	margin-top: 251px;
+	margin-left: 156px;
+}
+.car-retro:hover{
+	margin-left: 20px;
+}
+.car-retro__title{
+	position: fixed;
+	margin-top: 330px;
+	margin-left: 773px;
+}
+.car-retro__item-bonnet {
+	position: absolute;
+	margin-left: 446px;
+	margin-top: 510px;
+}
+.car-retro__item-side {
+	position: absolute;
+	margin-left: 918px;
+	margin-top: 504px;
+}
+.car-retro__item-mirror {
+	position: absolute;
+	margin-left: 795px;
+	margin-top: 519px;
+}
+.car-retro__item-lugg {
+	position: absolute;
+	margin-left: 1098px;
+	margin-top: 479px;
+}
